@@ -1,3 +1,3 @@
 # Calculator
 
-It is simple interface project which is used creted by using Tkinter.
+It is simple interface project which is used created by using Tkinter.
